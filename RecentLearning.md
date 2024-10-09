@@ -28,7 +28,7 @@ Communicating with other computers to share information and resources.
 
 ![Screenshot 2024-09-05 at 10.05.07.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a1acae3-9490-44b3-9111-d203cb3c547b/a5654a72-d022-4c78-8443-9d85c39cf017/Screenshot_2024-09-05_at_10.05.07.png)
 
-# Related Assessment Statement
+Related Assessment Statement
 
   Define the terms bit, byte binary
 
