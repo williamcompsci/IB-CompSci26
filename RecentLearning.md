@@ -1,4 +1,4 @@
-Layers of Computing Systems
+# Layers of Computing Systems
 
 Layer one: Information
 
@@ -28,55 +28,55 @@ Communicating with other computers to share information and resources.
 
 ![Screenshot 2024-09-05 at 10.05.07.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a1acae3-9490-44b3-9111-d203cb3c547b/a5654a72-d022-4c78-8443-9d85c39cf017/Screenshot_2024-09-05_at_10.05.07.png)
 
-Related Assessment Statement
+# Related Assessment Statement
 
-Define the terms bit, byte binary
+  Define the terms bit, byte binary
 
-Representing the infinite world: Representing just enough of the world to satisfy our needs and our senses of sight and sound
+  Representing the infinite world: Representing just enough of the world to satisfy our needs and our senses of sight and sound
 
-Information is processed data
+  Information is processed data
 
-Data is the raw form of information. After processing you get information.
+  Data is the raw form of information. After processing you get information.
 
-Analog and Digital Information
+  Analog and Digital Information
 
-Analog - Continuous representation, analogous to the actual information it represents
+  Analog - Continuous representation, analogous to the actual information it represents
+  
+  Digital data: A discrete representation, breaking the information up into separate elements
 
-Digital data: A discrete representation, breaking the information up into separate elements
+  Computers cannot work well with analog data, so we digitize the data
+  
+  Digitize: Breaking data into pieaces and representing those pieces separately.
 
-Computers cannot work well with analog data, so we digitize the data
+  Analog continually fluctuates in voltage up and down
 
-Digitize: Breaking data into pieaces and representing those pieces separately.
+  A digital signal has only a high or low state, corresponding to the two binary digits
 
-Analog continually fluctuates in voltage up and down
+  All electronic signals degrade as they move down a line
 
-A digital signal has only a high or low state, corresponding to the two binary digits
+  The voltage of the signal fluctuates due to environmental effects
 
-All electronic signals degrade as they move down a line
+  Periodically, a digital signal is re-clocked to regain its original shape.
 
-The voltage of the signal fluctuates due to environmental effects
-
-Periodically, a digital signal is re-clocked to regain its original shape.
-
-Re-clock: repeat waves to increase the cover area for a certain device (e.g wifi)
+  Re-clock: repeat waves to increase the cover area for a certain device (e.g wifi)
 
 Computers have storage units called binary digits or bits
 
-This is the smallest unit of data
+  This is the smallest unit of data
 
-It can hold one of the two values: 0 or 1, the foundation of all computer operations
+  It can hold one of the two values: 0 or 1, the foundation of all computer operations
 
-Bits can be grouped together to make them easier to work with
+  Bits can be grouped together to make them easier to work with
 
-The number of bits in a word determines the word length of the computer, usually a multiple of 8
+  The number of bits in a word determines the word length of the computer, usually a multiple of 8
 
-32 bit machines
+  32 bit machines
 
-64 bit machines etc
+  64 bit machines etc
 
-b = bit
+  b = bit
 
-B = byte = 8 bit
+  B = byte = 8 bit
 
 Word Length: the amount of information that can be processed per cycle (hertz)
 
